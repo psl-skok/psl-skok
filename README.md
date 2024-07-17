@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Davidson Projects</b>
+  - [MindMadness Unity Game](https://github.com/psl-skok/MindMadness)
 
 <h2>📺 Work Experience</h2>
 
