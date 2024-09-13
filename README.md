@@ -4,6 +4,8 @@
 
 - <b>Davidson Projects</b>
   - [MindMadness Unity Game](https://github.com/psl-skok/MindMadness)
+- <b>CU Boulder Projects</b>
+  - [Ray Tracer](https://github.com/psl-skok/ray-tracer)
 
 <h2>📺 Work Experience</h2>
 
