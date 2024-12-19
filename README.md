@@ -9,6 +9,7 @@
   - Other
     - [Campushood - Software Development Project](https://github.com/psl-skok/Campushood)
     - [Operating Systems Projects](https://github.com/psl-skok/OperatingSystemProjects/tree/main)
+    - [NLP - Political Sentiment Analysis](https://github.com/psl-skok/PoliticalSentimentAnalysis)
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer)
 
