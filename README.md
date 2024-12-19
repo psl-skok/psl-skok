@@ -8,6 +8,7 @@
     - [SustyCoop Unity Game](https://github.com/psl-skok/sustyCoop)
   - Other
     - [Campushood - Software Development Project](https://github.com/psl-skok/Campushood)
+    - [Operating Systems Projects](https://github.com/psl-skok/OperatingSystemProjects/tree/main)
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer)
 
