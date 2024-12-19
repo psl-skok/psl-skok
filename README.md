@@ -4,6 +4,7 @@
 
 - <b>Davidson Projects</b>
   - [MindMadness Unity Game](https://github.com/psl-skok/MindMadness)
+  - [SustyCoop Unity Game](https://github.com/psl-skok/sustyCoop)
   - [Campushood - Software Development Project](https://github.com/psl-skok/Campushood)
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer)
