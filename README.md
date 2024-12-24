@@ -14,6 +14,8 @@ I’m a Computer Science student at Davidson College with a passion for game dev
     - [NLP - Political Sentiment Analysis](https://github.com/psl-skok/PoliticalSentimentAnalysis): A project analyzing political sentiment using natural language processing (NLP) techniques.
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer): A 3D rendering system built to simulate light and shadows in a virtual environment.
+- <b>Personal Projects</b>
+  - [Rescuers](https://github.com/psl-skok/Rescuers): A multiplayer avalanche rescue game with a mountain dog companion.
 
 <h2> 🤳 Connect with me:</h2>
 
