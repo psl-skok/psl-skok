@@ -1,5 +1,5 @@
 <h1>Hi, I'm Paul! </h1>
-I’m a Computer Science student at Davidson College with a passion for game development, AI, and foreign policy. I enjoy working on projects that blend creativity technology, and problem-solving.
+I’m a Computer Science student at Davidson College with a passion for AI, data, and game development. I enjoy working on projects that blend creativity technology, and problem-solving.
 
 
 <h2>👨‍💻 Coding Projects:</h2>
