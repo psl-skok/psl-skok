@@ -29,4 +29,4 @@ I’m a recent CS graduate @ Davidson College with a passion for AI, data, and s
 
 
 [linkedin]: https://www.linkedin.com/in/paul-skok-801191288/
-Email me: [here](mailto:psl.skok@gmail.com)
+Email me @ psl.skok@gmail.com
