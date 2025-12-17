@@ -3,8 +3,9 @@ I’m a recent CS graduate @ Davidson College with a passion for AI, data, and s
 
 
 <h2>👨‍💻 Coding Projects:</h2>
-- <b>Apex Work</b>
-  -  [Sales Call Feature Extractor](https://github.com/psl-skok/ApexFeatureExtractor): An AI-powered sales call analysis tool that transforms raw transcript data into actionable, structured business insights.
+
+- <b>Apex Strategy Advisors - Development Projects</b>
+  - [Sales Call Feature Extractor](https://github.com/psl-skok/ApexFeatureExtractor): An AI-powered sales call analysis tool that transforms raw transcript data into actionable, structured business insights.
 
 - <b>Davidson Projects</b>
   - Game Development
