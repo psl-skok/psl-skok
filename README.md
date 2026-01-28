@@ -22,7 +22,7 @@ I’m a recent CS graduate @ Davidson College with a passion for AI, data, and s
     processing (NLP) techniques.
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer): A 3D rendering system built to simulate light and shadows in a virtual environment.
-- <b>Personal Projects</b>
+- <b>Other Personal Projects</b>
   - [Borrowed Time](https://github.com/tom-roff/HackAtDavidsonGoats): Winning game development project for Hack@Davidson 2025
   - [Wildfire Data Mapping](https://github.com/psl-skok/WildfireData/tree/main): An interactive data map that highlights wildfire data collected by the USFS and Department of Agriculture
   - [Rescuers](https://github.com/psl-skok/Rescuers): A multiplayer avalanche rescue game with a mountain dog companion.
