@@ -5,7 +5,7 @@ I’m a recent CS graduate @ Davidson College with a passion for AI, data, and s
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <u><b>Current Work</b></u>
-  - [Political Stance Classification](https://github.com/psl-skok/PoliticalStanceClassification): ____
+  - [Political Stance Classification](https://github.com/psl-skok/PoliticalStanceClassification): A NLP classifier built using TF-IDF and regularized logistic regression to predict political ideology from Reddit text. (Continuation of Political Sentiment Analysis project below)
 
 - <b>Apex Strategy Advisors - Development Projects</b>
   - [Sales Call Feature Extractor](https://github.com/psl-skok/ApexFeatureExtractor): An AI-powered sales call analysis tool that transforms raw transcript data into actionable, structured business insights.
