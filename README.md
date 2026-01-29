@@ -16,10 +16,10 @@ I’m a recent CS graduate @ Davidson College with a passion for AI, data, and s
     - [SustyCoop Unity Game](https://github.com/psl-skok/sustyCoop): A cooperative farming game focused on sustainable practices.
     - [Subcutanean Echoes](https://docs.google.com/document/d/1W_z__P4fim6WcdnpyDFMyX9Vfqzeu4lbRvly9pkvBsk/edit?usp=sharing): An ARG choose your own adventure experience inspired by the book Subcutanean by Aaron A. Reed.
   - Other
-    - [NLP - Political Sentiment Analysis](https://github.com/psl-skok/PoliticalSentimentAnalysis): A project analyzing political sentiment using natural language 
+    - [NLP - Political Sentiment Analysis](https://github.com/psl-skok/PoliticalSentimentAnalysis): A project analyzing political sentiment using natural language processing (NLP) techniques.
     - [Campushood - Software Development Project](https://github.com/psl-skok/Campushood): A full-stack application connecting students with resources on campus.
     - [Operating Systems Projects](https://github.com/psl-skok/OperatingSystemProjects/tree/main): A series of projects related to OS concepts and implementations.
-    processing (NLP) techniques.
+    
 - <b>CU Boulder Projects</b>
   - [Ray Tracer](https://github.com/psl-skok/ray-tracer): A 3D rendering system built to simulate light and shadows in a virtual environment.
 - <b>Other Personal Projects</b>
